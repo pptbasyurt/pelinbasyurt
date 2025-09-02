@@ -1,6 +1,6 @@
 # Projects:
 
-## Scratch
+## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/Scratch)
 
-- [Tic Tac Toe](Scratch)
+- Tic Tac Toe
 
