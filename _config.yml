@@ -1,14 +1,9 @@
 theme: jekyll-theme-midnight
 title: Pelin's AP CSP Materials
 description: "CSP dersi projeleri ve denemeleri"
-nav:
-  - name: Home
-    link: /README.md
-  - name: Projects
-    link: /projects.md
-header_pages:
-- projects.md
-- 
+
+[Projects Page](projects.md)
+
 
 
 
