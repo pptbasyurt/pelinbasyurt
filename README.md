@@ -2,7 +2,7 @@
 
 
 
-## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)**
+## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
 
 - *Tic Tac Toe*
 
