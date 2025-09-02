@@ -1,6 +1,6 @@
 ![Pelin Başyurt](assets/profil.png)
 
-# Github Pages
+# AP CSP 2025-26
 
 Github pages denemesi
 
