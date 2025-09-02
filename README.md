@@ -1,4 +1,4 @@
-![Pelin Başyurt](assets/profil.png)
+![Pelin Başyurt]
 
 # AP CSP 2025-26
 
