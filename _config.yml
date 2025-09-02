@@ -1,3 +1,13 @@
 theme: jekyll-theme-midnight
-title: Pelin's homepage
+title: Pelin's AP CSP Materials
 description: "CSP dersi projeleri ve denemeleri"
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Projects
+    link: /projects
+  - name: Contact
+    link: /contact
+
