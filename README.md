@@ -1,14 +1,13 @@
-# [Projects:](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects)
+# **[Projects:](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects)**
 
-<br>
 
-## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
 
-- Tic Tac Toe
+## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)**
 
-<br>
+- *Tic Tac Toe*
+
 
 ## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
 
-- Box
+- *Box*
 
