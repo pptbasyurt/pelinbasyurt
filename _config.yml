@@ -3,12 +3,12 @@ title: Pelin's AP CSP Materials
 description: "CSP dersi projeleri ve denemeleri"
 nav:
   - name: Home
-    link: /
-  - name: About
-    link: /about
+    link: /README.md
   - name: Projects
-    link: /projects
-  - name: Resources
-    link: /resources
+    link: /projects.md
 header_pages:
+- projects.md
+- 
+
+
 
