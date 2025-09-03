@@ -1,13 +1,11 @@
 [home](README.md) | [projects](projects.md) | [documentation](documentation.md)
 
-# PROJECTS
+# [DOCUMENTATIION](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Resources)
 
 <br>
 
-## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
+## [Videos](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
 
-- [Tic-Tac-Toe](https://scratch.mit.edu/projects/1212524604)
-
-## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
-
-- X-O-X grid
+- [Tic-Tac-Toe](https://github.com/pptbasyurt/pelinbasyurt/blob/main/Resources/scratch%20explanation%20video.mov)
+  
+- [X-O-X grid](https://github.com/pptbasyurt/pelinbasyurt/blob/main/Resources/swift%20xox%20explanation.MOV)
