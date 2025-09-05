@@ -8,7 +8,7 @@ GitHub Pages is a free and powerful platform that allows software developers and
 **#AP CSP:**
 AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. 
 
-## *Sedat Yalçın - Apple Distinguished Educator 
+## *Sedat Yalçın - Apple Distinguished Educator* 
 
 <img src="media/Sedat yalçın.jpg" width="300">
 
