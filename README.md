@@ -8,9 +8,9 @@ GitHub Pages is a free and powerful platform that allows software developers and
 **#AP CSP:**
 AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. 
 
-## Sedat Yalçın - Apple Distinguished Educator 
+## *Sedat Yalçın - Apple Distinguished Educator 
 
-<img src="Sedat yalçın.jpg" width="300">
+<img src="media/Sedat yalçın.jpg" width="300">
 
 Sedat Yalçın is a computer science educator and FabLab Coordinator at Hisar Schools’ IdeaLab, where he fosters innovation and creative problem-solving. Since 2014, he has served as a Technovation Ambassador, mentoring female students in developing real-world solutions through technology and entrepreneurship. He is the co-author of the first Introduction to Artificial Intelligence textbook designed for Turkish high schools, equipping students with critical knowledge in emerging technologies.
 
