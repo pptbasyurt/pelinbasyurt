@@ -22,19 +22,19 @@
   
  <img src="media/xox_grid_ss.png" width="400"> 
 
-###*[Calculator](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)*
+### *[Calculator](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)*
 
 <img src="media/hesapmakinesi.png" width="400"> 
 
-###*[Menu-Bill](Projects/Swift/menu_hesabi.swiftpm.zip)
+### *[Menu-Bill](Projects/Swift/menu_hesabi.swiftpm.zip)
 
 <img src="media/menuhesabi.png" width="400">
 
-###*[My Portrait](Projects/Swift/my_portrait.swiftpm.zip)
+### *[My Portrait](Projects/Swift/my_portrait.swiftpm.zip)
 
 <img src="media/portrem.png" width="400">
 
-###[Clock V1](Projects/Swift/clockv1.zip)
+### *[Clock V1](Projects/Swift/clockv1.zip)*
 
 <img align="left" width="450" height="350" src="media/clockv1_am.png"> 
 <p align="center">
