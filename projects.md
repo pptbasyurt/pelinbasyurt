@@ -6,12 +6,12 @@
 
 ## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
 
-- *[Tic-Tac-Toe](https://scratch.mit.edu/projects/1212524604)*
+ ### - *[Tic-Tac-Toe](https://scratch.mit.edu/projects/1212524604)*
   
-<img align="left" width="300" height="400" src="media/scratchxwins.png"> 
-<img align="right" width="300" height="400" src="media/owins.png">
+<img align="left" width="200" height="300" src="media/scratchxwins.png"> 
+<img align="right" width="200" height="300" src="media/owins.png">
 <p align="center">
-  <img width="300" height="400" src="media/blankscartch.png">
+  <img width="200" height="300" src="media/blankscartch.png">
 </p>
  
 
@@ -28,7 +28,7 @@
 
 ### - *[Menu-Bill](Projects/Swift/menu_hesabi.swiftpm.zip)*
 
-<img src="media/menuhesabi.png" width="400">
+<img src="media/menuhesabi.png" width="200">
 
 ### - *[My Portrait](Projects/Swift/my_portrait.swiftpm.zip)*
 
