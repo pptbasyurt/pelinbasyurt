@@ -13,4 +13,5 @@
 ## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
 
 - *[X-O-X grid]*
-   <img src="media/tic_tac_toe_gif.mp4" width="700"> 
+<img align="left" width="300" height="100" src="media/scratchxwins.png"> ...
+<img align="right" width="300" height="100" src="media/owins.png">
