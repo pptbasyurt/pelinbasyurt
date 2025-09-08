@@ -7,7 +7,8 @@
 ## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
 
 - *[Tic-Tac-Toe](https://scratch.mit.edu/projects/1212524604)*
-  <img src="media/xox_grid_ss.png" width="700"> 
+  
+  <img src="media/xox_grid_ss.png" width="400"> 
 
 ## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
 
