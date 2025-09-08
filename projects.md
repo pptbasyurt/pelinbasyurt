@@ -37,5 +37,12 @@
 ### - *[Clock V1](Projects/Swift/clockv1.zip)*
 
 <img align="left" width="250" height="200" src="media/clockv1_am.png"> 
-<img align="left" width="250" height="200" src="media/clockv1_pm.png"> 
+<img align="left" width="250" height=300 src="media/clockv1_pm.png"> 
+
+
+
+### - *[Clock V2](Projects/Swift/clockv2.zip)*
+
+<img align="left" width="250" height="200" src="media/clockv2.png"> 
+
 
