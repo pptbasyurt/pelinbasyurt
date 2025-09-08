@@ -16,3 +16,6 @@
   
 <img align="left" width="300" height="400" src="media/scratchxwins.png"> 
 <img align="right" width="300" height="400" src="media/owins.png">
+<p align="center">
+  <img width="300" height="400" src="media/blankscartch.png">
+</p>
