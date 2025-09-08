@@ -13,5 +13,6 @@
 ## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
 
 - *[X-O-X grid]*
-<img align="left" width="300" height="100" src="media/scratchxwins.png"> ...
-<img align="right" width="300" height="100" src="media/owins.png">
+  
+<img align="left" width="300" height="400" src="media/scratchxwins.png"> ...
+<img align="right" width="300" height="400" src="media/owins.png">
