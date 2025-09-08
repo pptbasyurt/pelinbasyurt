@@ -10,4 +10,5 @@ AP Computer Science Principles is an introductory college-level computing course
 
 
 *### Pelin Başyurt - HisarCS 2025-26.)*
+
  <img src= "media/idealab (1).png" width="200"> 
