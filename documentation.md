@@ -1,6 +1,6 @@
 [home](README.md) | [projects](projects.md) | **[resources](documentation.md)**
 
-# **[DOCUMENTATIION](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Resources)**
+# **[DOCUMENTATION/RESOURCES](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Resources)**
 
 <br>
 
