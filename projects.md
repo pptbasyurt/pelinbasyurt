@@ -22,17 +22,25 @@
   
  <img src="media/xox_grid_ss.png" width="200"> 
 
+ -------------------------------------------------------------------------------------------------------------------------------------
+
 ### - *[Calculator](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)*
 
 <img src="media/hesapmakinesi.png" width="200"> 
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ### - *[Menu-Bill](Projects/Swift/menu_hesabi.swiftpm.zip)*
 
 <img src="media/menuhesabi.png" width="200">
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### - *[My Portrait](Projects/Swift/my_portrait.swiftpm.zip)*
 
 <img src="media/portrem.png" width="200">
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ### - *[Clock V1](Projects/Swift/clockv1.zip)*
 
@@ -49,6 +57,22 @@
 ### - *[Clock V3 - Ominitrix](Projects/Swift/bentenwatch.swiftpm.zip)*
 <img align="left" width="250" height="200" src="media/bentenwatch1.png">
 <img align="left" width="250" height="200" src="media/bentengearview.png">
+
+<br clear="both">
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+### - *[Binary Conversion P1](Projects/Swift/binaryv2.zip)*
+
+<img align="left" width="250" height=300 src="media/binaryv2.png"> 
+
+<br clear="both">
+
+### - *[Binary Conversion P2](Projects/Swift/binaryv2.zip)*
+<img align="left" width="250" height="200" src="media/binary1.png">
+
 
 
 
