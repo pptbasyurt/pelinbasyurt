@@ -1,4 +1,4 @@
-[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md)
+[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md)
 
 # **PROJECTS**
 
@@ -39,18 +39,16 @@
 <img align="left" width="250" height="200" src="media/clockv1_am.png"> 
 <img align="left" width="250" height=300 src="media/clockv1_pm.png"> 
 
-
-
-
-
-
-
-
-
-
+<br clear="both">
 
 ### - *[Clock V2](Projects/Swift/clockv2.zip)*
+<img align="left" width="250" height="200" src="media/clockv2.png">
 
-<img align="left" width="250" height="200" src="media/clockv2.png"> 
+<br clear="both">
+
+### - *[Clock V3 - Ominitrix](Projects/Swift/bentenwatch.swiftpm.zip)*
+<img align="left" width="250" height="200" src="media/bentenwatch1.png">
+<img align="left" width="250" height="200" src="media/bentengearview.png">
+
 
 
