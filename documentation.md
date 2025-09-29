@@ -1,4 +1,4 @@
-[home](README.md) | [projects](projects.md) | [documentation](documentation.md) | **[big idea](bigidea.md)**
+[home](README.md) | [projects](projects.md) | **[documentation](documentation.md)** | [big idea](bigidea.md)
 
 # **[DOCUMENTATION/RESOURCES](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Resources)**
 
