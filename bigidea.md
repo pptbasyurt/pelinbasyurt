@@ -1,4 +1,4 @@
-[home](README.md) | [projects](projects.md) | [documentation](documentation.md)| **[big idea](bigidea.md)**
+[home](README.md) | [projects](projects.md) | [documentation](documentation.md) | **[big idea](bigidea.md)** | [reflections](reflections.md)
 
 <br>
 
