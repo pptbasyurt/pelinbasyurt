@@ -4,11 +4,25 @@
 
 <br>
 
-## [Videos](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
+<details>
+  <summary><h1>Videos</h1></summary>
 
 - *[Tic-Tac-Toe](https://github.com/pptbasyurt/pelinbasyurt/blob/main/Resources/scratch%20explanation%20video.mov)*
   
 - *[X-O-X grid](https://github.com/pptbasyurt/pelinbasyurt/blob/main/Resources/swift%20xox%20explanation.MOV)*
 
-## Documents
+
+</details>
+
+<br>
+
+***
+
+<details>
+  <summary><h1>Documents</h1></summary>
+
 - *[Clock V2](Resources/clockv2.pdf)*
+
+
+</details>
+
