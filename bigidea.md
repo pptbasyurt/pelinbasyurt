@@ -1,6 +1,15 @@
-**Big Idea 1: Creative Development** 
+[home](README.md) | [projects](projects.md) | [documentation](documentation.md)| **[big idea](bigidea.md)**
+
 <br>
-*is about using computing to bring ideas to life. It focuses on how people use technology to express themselves, solve problems, and make new things. This idea shows that computer science isn’t just about code — it’s also about creativity, design, and collaboration.*
+
+<details>
+  <summary><h1>BIG IDEA</h1></summary>
+
+# **Big Idea 1 - Creative Development** 
+
+*is about using computing to bring ideas to life. It focuses on how people use technology to express themselves, solve problems, and make new things. This idea shows that computer science isn’t just about code but also about creativity, design, and collaboration*
+
+<br>
 
 **Core Concepts:**
 
@@ -9,4 +18,38 @@
 * **Design and iteration:** Planning, testing, and improving ideas step by step.
 * **Collaboration:** Working with others to share ideas and build better projects.
 * **Innovation:** Using technology to invent new ways of thinking and creating.
+
+***
+
+# **Big Idea 2 - Abstraction**
+
+*is about simplifying complex ideas so we can focus on what matters. It helps us ignore unnecessary details, spot patterns, and create clearer models for solving problems.*
+
+<br>
+
+**Core Concepts:**
+
+* **Reducing complexity:** Keeping only the important parts.
+* **Generalization:** Making broad rules from specific examples.
+* **Models:** Using simplified representations to understand systems.
+* **Layers:** Viewing systems at different levels of detail.
+* **Efficiency:** Making ideas easier to work with.
+
+***
+
+# **Big Idea 3 - Data and Information**
+
+*is about collecting, organizing, and analyzing data to discover meaning. It shows how information helps us understand the world and make better decisions.*
+
+<br>
+
+**Core Concepts:**
+
+* **Data collection:** Gathering facts or observations.
+* **Organization:** Storing data so it’s easy to use.
+* **Analysis:** Finding patterns and insights.
+* **Visualization:** Showing data clearly through charts or graphs.
+* **Decision-making:** Using information to guide actions.
+
+</details>
 
