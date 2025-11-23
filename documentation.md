@@ -4,7 +4,7 @@
 
 <br>
 
-<details>
+<details markdown="1">
   <summary><h1>Videos</h1></summary>
 
 - *[Tic-Tac-Toe](https://github.com/pptbasyurt/pelinbasyurt/blob/main/Resources/scratch%20explanation%20video.mov)*
@@ -18,7 +18,7 @@
 
 ***
 
-<details>
+<details markdown="1">
   <summary><h1>Documents</h1></summary>
 
 - *[Clock V2](Resources/clockv2.pdf)*
