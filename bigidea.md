@@ -2,7 +2,7 @@
 
 <br>
 
-<details>
+<details markdown="1">
   <summary><h1>BIG IDEA</h1></summary>
 
 # **Big Idea 1 - Creative Development** 
