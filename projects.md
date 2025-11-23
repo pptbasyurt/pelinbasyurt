@@ -1,7 +1,7 @@
 [home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
 
 <details markdown="1">
-  <summary><strong>PROJECTS</strong></summary>
+  <summary><h1>PROJECTS</h1></summary>
 
 <br>
 
@@ -55,7 +55,7 @@
 *a clock that advances on click and changes background color based on whether its a.m. or p.m.*
 
 <img align="left" width="250" height="200" src="media/clockv1_am.png"> 
-<img align="left" width="250" height=300 src="media/clockv1_pm.png"> 
+<img align="left" width="250" height="200" src="media/clockv1_pm.png"> 
 
 <br clear="both">
 
@@ -68,12 +68,15 @@
 
 #### [Clock V3 - Ominitrix](Projects/Swift/bentenwatch.swiftpm.zip)
 *BenTen's Ominitrix watch that shows the mechanics and inner mechanisms when clicked on the switch buttton*
+<br>
 <img align="left" width="250" height="200" src="media/bentenwatch1.png">
 <img align="left" width="250" height="200" src="media/bentengearview.png">
 
 <br clear="both">
 
 #### [Clock Game](Projects/Swift/clockgame1.swiftpm.zip)
+<br>
+
 *A SwiftUI game where a frog races against a ticking clock, dodging obstacles as each level gets faster.*
 <img align="left" width="250" height="200" src="media/froggame.png">
 
@@ -88,10 +91,7 @@
 #### [Clock Game](Projects/Swift/clockgame1.swiftpm.zip)
 *A SwiftUI game where a frog races against a ticking clock, dodging obstacles as each level gets faster.*
 <img align="left" width="250" height="200" src="media/froggame.png">
-
-
 <br clear="both">
-
 </p>
 
 ***
