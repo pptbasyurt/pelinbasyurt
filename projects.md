@@ -1,52 +1,55 @@
-[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md)
+[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
 
-# **PROJECTS**
+<details>
+  <summary><strong>PROJECTS</strong></summary>
 
 <br>
 
-## [Scratch](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Block_Coding)
+# [Simple Scratch XOX](https://scratch.mit.edu/projects/1212524604)
 
- ### - *[Tic-Tac-Toe](https://scratch.mit.edu/projects/1212524604)*
-*a basic tic tac toe game*
-  
+<br>
+
 <img align="left" width="200" height="300" src="media/scratchxwins.png"> 
 <img align="right" width="200" height="300" src="media/owins.png">
 <p align="center">
   <img width="200" height="300" src="media/blankscartch.png">
 </p>
- 
 
+***
 
-## [Swift](https://github.com/pptbasyurt/pelinbasyurt/tree/main/Projects/Swift)
+# [Calculator](https://scratch.mit.edu/projects/1212524604)
 
-### - *[X-O-X grid](Projects/Swift/kutu_kutu_pense.swiftpm.zip)*
-*3x3 tic-tact-toe grid of colorful boxes*
-  
- <img src="media/xox_grid_ss.png" width="200"> 
+<br>
 
- -------------------------------------------------------------------------------------------------------------------------------------
-
-### - *[Calculator](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)*
 *A simple calculator that gets user input and does the 4 arithmetical equations on them*
 
 <img src="media/hesapmakinesi.png" width="200"> 
+</p>
 
--------------------------------------------------------------------------------------------------------------------------------------
+***
 
-### - *[Menu-Bill](Projects/Swift/menu_hesabi.swiftpm.zip)*
+# [Menu Bill](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)
 
-<img src="media/menuhesabi.png" width="200">
+<br>
 
--------------------------------------------------------------------------------------------------------------------------------------
+<img src="media/hesapmakinesi.png" width="200"> 
+</p>
 
-### - *[My Portrait](Projects/Swift/my_portrait.swiftpm.zip)*
-*me, coded*
+***
+
+# [My Portrait](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)
+
+<br>
 
 <img src="media/portrem.png" width="200">
 
--------------------------------------------------------------------------------------------------------------------------------------
+</p>
 
-### - *[Clock]*
+***
+
+# [Clock](Projects/Swift/clockv1.zip)
+
+<br>
 
 #### [Clock V1](Projects/Swift/clockv1.zip)
 *a clock that advances on click and changes background color based on whether its a.m. or p.m.*
@@ -77,12 +80,26 @@
 
 <br clear="both">
 
--------------------------------------------------------------------------------------------------------------------------------------
+</p>
+
+<br>
 
 
-### - *Binary*
+#### [Clock Game](Projects/Swift/clockgame1.swiftpm.zip)
+*A SwiftUI game where a frog races against a ticking clock, dodging obstacles as each level gets faster.*
+<img align="left" width="250" height="200" src="media/froggame.png">
+
+
+<br clear="both">
+
+</p>
+
+***
+
+# [Binary Conversion](Projects/Swift/basit_hesap_makinesi.swiftpm.zip)
 
 #### [Binary Conversion P1](Projects/Swift/binaryv2.zip)
+
 
 <img align="left" width="250" height=300 src="media/binaryv2.png"> 
 
@@ -96,13 +113,8 @@
 #### [Icecream Overflow](Projects/Swift/icecream.swiftpm.zip)
 <img align="left" width="250" height="200" src="media/icecream.png">
 
+</p>
 
-
-
-
-
-
-
-
+</details>
 
 
