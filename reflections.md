@@ -2,7 +2,7 @@
 
 # **Assignment/Project Refections:**
 
-<details>
+<details markdown="1">
   <summary><strong>Clock V1</strong></summary>
 
 <br>
@@ -30,7 +30,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
   <summary><strong>Clock V2</strong></summary>
 
 <br>
@@ -55,7 +55,7 @@
 </details>
 
 
-<details>
+<details markdown="1">
   <summary><strong>Clock V3</strong></summary>
 
 <br>
@@ -75,7 +75,7 @@ Reflection Questions (to include in README)
 
 ***
 
-<details>
+<details markdown="1">
   <summary><strong>Unit 1.2 Recap</strong></summary>
 
   <br>
