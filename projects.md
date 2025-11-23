@@ -1,6 +1,6 @@
 [home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
 
-<detail markdown="1"s>
+<detail markdown="1">
   <summary><strong>PROJECTS</strong></summary>
 
 <br>
