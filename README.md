@@ -8,7 +8,6 @@ GitHub Pages is a free and powerful platform that allows software developers and
 </details>
 
 
-<br>
 
 ***
 
