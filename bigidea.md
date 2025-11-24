@@ -2,6 +2,8 @@
 
 <br>
 
+# Big Idea Descriptions
+
 <details markdown="1">
   <summary><strong>Big Idea 1 - Creative Development</strong></summary>
   
@@ -18,6 +20,8 @@
 * **Innovation:** Using technology to invent new ways of thinking and creating.
 
 </details>
+
+***
 
 
 <details markdown="1">
@@ -37,7 +41,7 @@
 
 </details>
 
-
+***
 
 
 <details markdown="1">
