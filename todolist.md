@@ -1,6 +1,4 @@
-[home](README.md)| **[to do](todolist.md)** | [projects](projects.md) | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
-
-<br>
+[home](README.md) | **[to do](todolist.md)** | [projects](projects.md) | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
 
 # Project Grading
 <br>
