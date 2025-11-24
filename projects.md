@@ -1,4 +1,4 @@
-[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
+**[home](README.md) | [to do](todolist.md) | [projects](projects.md) | [documentation](documentation.md) | [big idea](bigidea.md) | [reflections](reflections.md)
 
 <details markdown="1">
   <summary><h1>PROJECTS</h1></summary>
