@@ -106,11 +106,13 @@
 <br clear="both">
 
 #### [Binary Conversion P2](Projects/Swift/binaryv2.zip)
+
 <img align="left" width="250" height="200" src="media/binary1.png">
 
 <br clear="both">
 
 #### [Icecream Overflow](Projects/Swift/icecream.swiftpm.zip)
+
 <img align="left" width="250" height="200" src="media/icecream.png">
 
 
