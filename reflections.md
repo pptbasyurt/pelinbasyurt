@@ -60,8 +60,6 @@
 
 <br>
 
-Reflection Questions (to include in README)
-
 * **1.Who is your target audience? How do your design choices support this audience? How did research (FigJam) influence your design?What was the most challenging part of coding?**
 
 *Our target audience was kids aged around 5-12. Our design was inspired by the childrens cartoon Ben10. Our FigJam was completely full of the internal mechanisms of a clock and BenTen's Ominitrix looked like, so our research was definitely a roadmap. The most challenging part about docing was getting the animations right for the internal mechanisms.
@@ -100,6 +98,18 @@ Reflection Questions (to include in README)
 * **4. What concept did you understand best today?**
 
 *I understood binary the best today, because it clearly shows how computers represent information using only 0s and 1s, and it helped me see how larger data can be built from simple patterns.*
+
+</details>
+
+***
+
+<details markdown="1">
+  <summary><strong>Lists</strong></summary>
+
+<br>
+
+
+
 
 </details>
 
