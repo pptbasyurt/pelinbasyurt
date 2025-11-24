@@ -14,8 +14,6 @@
 
 </details>
 
-<br>
-
 ***
 
 <details markdown="1">
