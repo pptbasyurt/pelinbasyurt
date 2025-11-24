@@ -13,7 +13,7 @@
 <img align="right" width="200" height="300" src="media/owins.png">
 <p align="center">
   <img width="200" height="300" src="media/blankscartch.png">
-</p>
+
 
 ***
 
@@ -24,7 +24,7 @@
 *A simple calculator that gets user input and does the 4 arithmetical equations on them*
 
 <img src="media/hesapmakinesi.png" width="200"> 
-</p>
+
 
 ***
 
@@ -33,7 +33,7 @@
 <br>
 
 <img src="media/hesapmakinesi.png" width="200"> 
-</p>
+
 
 ***
 
@@ -43,7 +43,7 @@
 
 <img src="media/portrem.png" width="200">
 
-</p>
+
 
 ***
 
@@ -83,7 +83,7 @@
 
 <br clear="both">
 
-</p>
+
 
 <br>
 
@@ -92,7 +92,7 @@
 *A SwiftUI game where a frog races against a ticking clock, dodging obstacles as each level gets faster.*
 <img align="left" width="250" height="200" src="media/froggame.png">
 <br clear="both">
-</p>
+
 
 ***
 
@@ -113,7 +113,7 @@
 #### [Icecream Overflow](Projects/Swift/icecream.swiftpm.zip)
 <img align="left" width="250" height="200" src="media/icecream.png">
 
-</p>
+
 
 </details>
 
