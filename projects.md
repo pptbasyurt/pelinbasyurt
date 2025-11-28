@@ -9,12 +9,11 @@
 
 ## [Simple Scratch XOX](https://scratch.mit.edu/projects/1212524604)
 
-<br>
 
 <p align="center">
-  <img width="200" height="250" src="media/scratchxwins.png" />
-  <img width="200" height="250" src="media/owins.png" />
-  <img width="200" height="300" src="media/blankscartch.png" />
+  <img width="200" height="230" src="media/scratchxwins.png" />
+  <img width="200" height="230" src="media/owins.png" />
+  <img width="200" height="230" src="media/blankscartch.png" />
 </p>
 
 ---
