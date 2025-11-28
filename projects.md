@@ -111,6 +111,8 @@
 
 ### [Icecream Overflow](Projects/Swift/icecream.swiftpm.zip)
 
+An Ice Cream app that teaches binary to decimal conversion numbers through scoops and overflows
+
 <br>
 
 <img align="left" width="250" height="200" src="media/icecream.png" />
