@@ -72,34 +72,6 @@
 </details>
 
 <details markdown="1">
-  <summary><strong>Clock V1</strong></summary>
-
-<br>
-
-* **What is the difference between @State and var?**
-
-  *@State creates a variable that updates the UI when it changes. A var is just a regular variable so changing it does not update the view.*
-
-* **Why do we reset hour to 0 after 24?**
-
-  *Because clocks use a 24-hour cycle. After hour 23 to the next hour should loop back to 0, starting a new day.*
-
-* **How does abstraction help in controlling the minute hand?**
-
-  *Abstraction means hiding details and focusing on the essential idea. Instead of manually adjusting positions or angles, you use a simplified concept like “minute value” to control the hand. This makes the code easier to manage.*
-
-* **How is .onTapGesture similar to Scratch’s event blocks?**
-
-  *Both react to user actions. .onTapGesture runs code when the user taps.*
-
-* **How is using minuteSeg an example of abstraction in programming?**
-
-  *minuteSeg represents a simple input (0–59) that controls a more complex behavior, like rotating the minute hand. Takes away the worry of math and angles.
-  
-
-</details>
-
-<details markdown="1">
   <summary><strong>Rock Paper Scissors</strong></summary>
 
 <br>
@@ -107,11 +79,30 @@
 * **1. Core Logic:**
 
   - **What are the rules for determining the winner in Rock-Paper-Scissors?**
-    *Rock beats scissors, paper beats rock, scissors beat paper. There are only three winning combinations. Everything else is either a loss or a tie.*
-  - How does the `determineWinner` function decide who wins?
-    *The function compares the user’s choice and the computer’s choice. It first checks for a tie, then matches the pair against the winning combinations. If the user’s choice matches a winning case, it returns "kazandin", otherwise it returns "kaybettin"*
-  - What does `randomElement()` do in the `randomComputerChoice` function?
+    <br>
+*Rock beats scissors, paper beats rock, scissors beat paper. There are only three winning combinations. Everything else is either a loss or a tie.*
+  - **How does the `determineWinner` function decide who wins?**
+    <br>
+*The function compares the user’s choice and the computer’s choice. It first checks for a tie, then matches the pair against the winning combinations. If the user’s choice matches a winning case, it returns "kazandin", otherwise it returns "kaybettin"*
+  - **What does `randomElement()` do in the `randomComputerChoice` function?**
+*randomElement() selects a random item from the choices array. In this game, it randomly picks Rock, Paper, or Scissors for the computer. This makes each round unpredictable and fair.*
 
+* **2. State Management:**
+  - **What role does @State play in keeping track of the user's choice?**
+    <br>
+*@State stores values that can change while the app runs, like userChoice, computerChoice, and result. When you update a @State variable, SwiftUI automatically refreshes the parts of the screen that depend on it. That is how the app remembers the user’s latest move.*
+  - **How is the result displayed dynamically on the screen?**
+    <br>
+*The result is shown in a Text view that uses the @State variable result, like Text(result). When play() updates result, SwiftUI redraws that Text view with the new string. So the screen updates right after the button tap.*
+
+
+* **3. User Interaction:**
+  - **How does the app know which choice the user clicked?**
+    <br>
+*Each emoji is placed inside a Button. When the user taps a button, its action block runs and calls the play function with that specific choice. This passes the selected value into the game logic.*
+  - **What happens after the user makes a selection?**
+    <br>
+*The app stores the user’s choice, generates a random computer choice, and then calls determineWinner. The result is saved in a @State variable, which automatically updates the text on the screen.*
 
 </details>
 
