@@ -125,7 +125,7 @@ The RockPaperScissorsGame is a simple game where a user competes against the com
 
 <br>
 
-<img src="media/taskagitmakas" width="200" />
+<img src="media/taskagitmakas" width="250" />
 
 <br clear="both" />
 
