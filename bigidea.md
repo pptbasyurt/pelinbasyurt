@@ -46,7 +46,8 @@
 
 <details markdown="1">
   <summary><strong>Big Idea 3 - Data & Information</strong></summary>
-  *is about collecting, organizing, and analyzing data to discover meaning. It shows how information helps us understand the world and make better decisions.*
+  
+*is about collecting, organizing, and analyzing data to discover meaning. It shows how information helps us understand the world and make better decisions.*
 
 <br>
 
