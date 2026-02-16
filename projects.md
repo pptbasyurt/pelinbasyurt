@@ -7,24 +7,25 @@
 
 ---
 
-## [Simple Scratch XOX](https://scratch.mit.edu/projects/1212524604)
+<h2><a href="https://scratch.mit.edu/projects/1212524604/">Simple Scratch XOX</a></h2>
 
-
-<p align="center">
-  <img width="200" height="230" src="media/scratchxwins.png" />
-  <img width="200" height="230" src="media/owins.png" />
-  <img width="200" height="230" src="media/blankscartch.png" />
+<p>
+  <img src="media/scratchxwins.png" width="200" height="230" alt="X wins" />
+  <img src="media/owins.png" width="200" height="230" alt="O wins" />
+  <img src="media/blankscartch.png" width="200" height="230" alt="Empty board" />
 </p>
 
----
+<br clear="all" />
+<hr />
 
-## [Calculator](https://scratch.mit.edu/projects/1212524604)
+<h2><a href="https://scratch.mit.edu/projects/1212524604/">Calculator</a></h2>
 
-*A simple calculator that gets user input and does the 4 arithmetical equations on them.*
+<p><em>A simple calculator that gets user input and does the 4 arithmetical equations on them.</em></p>
 
-<br>
+<p>
+  <img src="media/hesapmakinesi.png" width="260" alt="Calculator app" />
+</p>
 
-<img src="media/hesapmakinesi.png" width="200" />
 
 ---
 
@@ -118,7 +119,18 @@ An Ice Cream app that teaches binary to decimal conversion numbers through scoop
 
 <br clear="both" />
 
+### [Rock Paper Scissors]
+
+The RockPaperScissorsGame is a simple game where a user competes against the computer. Both select a choice from Rock, Paper, or Scissors, and the game determines the winner based on predefined rules.
+
+<br>
+
+<img src="media/taskagitmakas" width="200" />
+
+<br clear="both" />
+
 </details>
+
 
 
 
