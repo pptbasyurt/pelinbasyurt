@@ -61,6 +61,25 @@
 
 </details>
 
+***
+
+<details markdown="1">
+  <summary><strong>Big Idea 4 - Computer Systems and Networks</strong></summary>
+  
+*is about how computers connect and share information. It focuses on the internet, communication between devices, and the systems that make digital networks work.*
+
+<br>
+
+**Core Concepts:**
+
+* **Networks:** Connected devices that send and receive data.
+* **Communication:** How information moves from one device to another.
+* **Protocols:** Rules that help devices communicate correctly.
+* **Internet infrastructure:** Hardware and systems like routers, servers, and cables.
+* **Reliability:** Keeping networks working even when problems happen.
+* **Security:** Protecting data as it travels across networks.
+</details>
+
 
 
 
