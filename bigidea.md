@@ -79,8 +79,6 @@
 * **Reliability:** Keeping networks working even when problems happen.
 * **Security:** Protecting data as it travels across networks.
 
-<br> 
-4.1 The Internet Presentation[media/AP CSP Big ıdea 4.1.pdf]
 </details>
 
 
